@@ -1,6 +1,6 @@
 {
   "name": "zhdun",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Expectant module",
   "main": "index.js",
   "scripts": {
