@@ -1,0 +1,22 @@
+{
+  "name": "zhdun",
+  "version": "0.1.0",
+  "description": "Expectant module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdogadailo/zhdun.git"
+  },
+  "author": "Maksym Dogadailo <m.dogadailo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdogadailo/zhdun/issues"
+  },
+  "homepage": "https://github.com/mdogadailo/zhdun#readme"
+}
