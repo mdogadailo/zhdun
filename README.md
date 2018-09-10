@@ -1,3 +1,3 @@
 # Zhdun
 
-Method thats return false
+Method that returns false
